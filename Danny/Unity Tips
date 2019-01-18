@@ -1,3 +1,8 @@
 Expensive Rendering Effects: Limit these for better performance
 Transparent objects like Glass Windows
 Lighting & Shadows
+
+Types of Lighting:
+Directional--The sun high above the entire scene
+Spot--a spotlight used to highlight important areas
+Point--like a lightbulb or lamp in a room
